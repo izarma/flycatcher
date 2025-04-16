@@ -7,8 +7,6 @@
 **Work in Progress**  
 A native GUI chat client for connecting to async-chat-server, built with Rust and egui.
 
-![GUI Client Concept](https://via.placeholder.com/800x500.png?text=Flycatcher+GUI+Preview)  
-*(Placeholder image - suggest adding actual screenshot later)*
 
 ## Features (Current Development)
 - 🖥️ Native GUI interface using egui/eframe
